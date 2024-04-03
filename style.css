@@ -1,0 +1,30 @@
+.bio h1
+{
+   text-align: center; 
+   margin-top: 30px;
+
+}
+.stud input
+{
+    margin-left: 20px;
+}
+.stud
+{
+    margin-left: 20px;
+}
+.tab table
+{
+    border-collapse: collapse;
+    margin-left: 50px;
+}
+.tab th,td 
+{
+    padding: 8px;
+    border: 1px solid;
+}
+.final button
+{
+    margin-left: 600px;
+    color: blue;
+
+}
